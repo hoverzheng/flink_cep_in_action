@@ -9,3 +9,8 @@
 该例子是基于Flink CEP 1.9.1。
 
 1. 环境搭建可以参考[这里](https://blog.csdn.net/zg_hover/article/details/87165195)的说明。
+
+
+参考文献：
+* https://ci.apache.org/projects/flink/flink-docs-stable/dev/libs/cep.html
+* https://ci.apache.org/projects/flink/flink-docs-release-1.9/api/java/
